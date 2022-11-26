@@ -10,7 +10,7 @@ The first step in deploying a public Tezos node on AWS is to deploy the [VPC](ht
 ## Create Stack
 Log into the AWS console, and navigate to Services > CloudFormation. Click “Create Stack” and choose “With new resources”
 
-<img src="/img/images/vpcs-1.png" alt="create-stack-with-new-resources"/>
+<img src="assets/vpcs-1.png" alt="create-stack-with-new-resources"/>
 
 
 ## Walk through the CloudFormation steps
@@ -19,13 +19,13 @@ Log into the AWS console, and navigate to Services > CloudFormation. Click “Cr
 
 In the specify template section, choose “Upload a template file” and select the `public-vpc.cloudformation.yaml` file. Then hit next.
 
-<img src="/img/images/vpcs-2.png" alt=""/>
+<img src="assets/vpcs-2.png" alt=""/>
 
 ### Step 2: Specify stack details
 
 The only thing you’ll need to do here is specify a stack name. I’ve chosen `node-vpcs`. Hit next.
 
-<img src="/img/images/vpcs-3.png" alt=""/>
+<img src="assets/vpcs-3.png" alt=""/>
 
 ### Step 3: Configure stack options
 

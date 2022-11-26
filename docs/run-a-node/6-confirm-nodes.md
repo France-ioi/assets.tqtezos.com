@@ -8,7 +8,7 @@ title: Confirm the Nodes
 We want to make sure the nodes are up and syncing correctly. In order to do that, we need to get the address of the NLB (Node Load Balancer) that our EC2 containers are connected through.
 
 In the AWS console, navigate to Services > EC2 > Load Balancers. Click on the node load balancer to bring up details. Find the DNS name and copy it.
-<img src="/img/images/confirm.png"/>
+<img src="assets/confirm.png"/>
 
 In a terminal window, you can `curl http://<nlb-address>:8732/monitor/bootstrapped` to see if your nodes are up and the timestamp on their latest block (i.e. whether they are in sync).
 

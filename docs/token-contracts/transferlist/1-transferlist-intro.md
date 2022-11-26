@@ -20,8 +20,7 @@ Follow instructions in [Client Setup](/docs/setup/1-tezos-client) to set up
   `tezos-client` and create a test network wallet
 
 Clone the [`lorentz-contract-transferlist` repository](https://github.com/tqtezos/lorentz-contract-transferlist),
-and follow the [instructions in the README](
-  https://github.com/tqtezos/lorentz-contract-transferlist/blob/master/README.md) to
+and follow the [instructions in the README](https://github.com/tqtezos/lorentz-contract-transferlist/blob/master/README.md) to
   install the dependencies required to use the `lorentz-contract-transferlist`
 
 Don't forget to set up an `ALICE_ADDRESS` and `BOB_ADDRESS` on the test network

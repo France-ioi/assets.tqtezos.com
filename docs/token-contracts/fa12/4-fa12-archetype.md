@@ -308,7 +308,7 @@ Archetype: Verify with Why3
 
 Right-click on the `Fa12` module in the left-hand panel, and select `Auto level 2` as the solving strategy.
 
-![why3 session](/img/why3_session.png)
+![why3 session](assets/why3_session.png)
 
 `Auto level 2` is a strategy that first applies a few provers on the goal with a short time limit, then splits the goal and tries again on the subgoals.
 

@@ -46,7 +46,7 @@ Tezos releases Docker images for each of the networks, both maintaining an alway
 - Zeronet will be prefixed with "zeronet." This is a node you’ll want to pin to a specific release version image, since it will often have breaking changes
 
 Auto-updating versions are named just the "prefix" described above, whereas specific versions will be followed by an underscore and a hash. 
-<img src="/img/images/intro-1.png"/>
+<img src="assets/intro-1.png"/>
 
 
 ### Resource Repositories 
@@ -64,7 +64,7 @@ Clone your `node-cloudformation` fork to your local machine so that you can acce
 
 The `node-docker` and `tezos-updater` repositories have three branches to choose from: mainnet, testnet, and zeronet. These branches use the auto-updating docker image (see "Tezos Docker Images" above), and if you’d like to pin the release version you’re using when you deploy, you'll need to modify the `Dockerfile` in the appropriate branch in both repositories. Pinned image versions will need to be monitored and updated manually, but will be easier to control.
 
-<img src="/img/images/node-docker.png"/>
+<img src="assets/node-docker.png"/>
 
 
 Now that we've decided what network to deploy a public node for, and updated our repositories successfully, we can start by creating a Virtual Private Cloud to deploy our nodes in.

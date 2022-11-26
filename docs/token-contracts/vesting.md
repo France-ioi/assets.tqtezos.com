@@ -19,15 +19,15 @@ An example of the Vesting Contract may be found [on Edo2Net](https://better-call
 
 - Salaries
 - Grants
-  * Fund sub-projects over time
+  - Fund sub-projects over time
 - Subscriptions
-  * Content creation
-  * Rent
-  * Parking
-  * CDPs
+  - Content creation
+  - Rent
+  - Parking
+  - CDPs
 - Contracts
-  * Consultancies
-  * Vendors
+  - Consultancies
+  - Vendors
 - "Reversible" fundraising: introduced [at Devcon4 by @frozeman](https://cryptoindia.io/lukso-ama-recap/),
   investors' funds are held in streaming contracts and returned as the project evolves.
 
