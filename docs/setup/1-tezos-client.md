@@ -4,7 +4,7 @@ title: Tezos Client Installation and Setup
 sidebar_label: Tezos Client
 ---
 
-TODO: `tezos-client` is now named `octez-client`.
+TODO: `tezos-client` is now named `octez-client`
 
 To start with we'll download and install tezos-client and create a couple of
 test wallets. We'll use
@@ -183,3 +183,4 @@ $ tezos-client activate account bob with tz1ZQYMDETodNBAc2XVbhZFGme8KniuPqrSw.js
 $ BOB_ADDRESS="tz1ZQYMDETodNBAc2XVbhZFGme8KniuPqrSw"
 $ tezos-client get balance for $BOB_ADDRESS
 ```
+
