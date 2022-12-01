@@ -4,6 +4,8 @@ title: Tezos Client Installation and Setup
 sidebar_label: Tezos Client
 ---
 
+TODO: `tezos-client` is now named `octez-client`.
+
 To start with we'll download and install tezos-client and create a couple of
 test wallets. We'll use
 [tezos-client](https://tezos.gitlab.io/api/cli-commands.html) - a command line
