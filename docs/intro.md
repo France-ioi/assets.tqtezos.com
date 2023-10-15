@@ -6,6 +6,9 @@ sidebar_label: Welcome
 
 Welcome to the Digital Assets Portal! 
 
+
+abc
+
 This documentation aims to help developers streamline implementation, integration, and the use of digital assets on the Tezos blockchain. The documentation is divided in sections based on what developers want to achieve.
 
 ## Get Started with Tezos
