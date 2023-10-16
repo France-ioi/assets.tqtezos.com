@@ -7,8 +7,6 @@ sidebar_label: Welcome
 Welcome to the Digital Assets Portal! 
 
 
-abc
-
 This documentation aims to help developers streamline implementation, integration, and the use of digital assets on the Tezos blockchain. The documentation is divided in sections based on what developers want to achieve.
 
 ## Get Started with Tezos
@@ -27,6 +25,10 @@ This section includes tutorials demonstrating new Tezos features added in recent
 
 ## Running a Public Tezos Node
 Get started with [deploying a public Tezos node on AWS](/docs/run-a-node/1-run-a-node-intro), including scripts and tools that make the cloud deployment straightforward.
+
+
+
+.
 
 
 
